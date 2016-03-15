@@ -1,6 +1,6 @@
 module.exports = {
   presets: [
-    require("babel-preset-stage-1")
+    require("babel-preset-stage-0")
   ],
   plugins: [
     require("babel-plugin-transform-es2015-template-literals"),
