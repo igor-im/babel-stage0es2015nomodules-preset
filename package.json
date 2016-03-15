@@ -1,5 +1,5 @@
 {
-  "name": "babel-stage0es2015nomodules-preset",
+  "name": "babel-preset-stage0es2015nomodules",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
